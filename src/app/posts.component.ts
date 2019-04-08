@@ -13,7 +13,7 @@ import {WebService} from "./web.service";
           <button (click)="createPost()" mat-button color="primary">Create post</button>
         </mat-card-actions>
       </mat-card-content>
-    </mat-card>
+    </mat-card> 
   `,
   styleUrls: ['./app.component.css']
 })
